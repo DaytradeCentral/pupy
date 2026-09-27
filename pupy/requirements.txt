@@ -4,8 +4,8 @@ pefile
 pyyaml
 rsa
 netaddr
-ecdsa==0.13
-paramiko==2.0.2
+ecdsa==0.19.2
+paramiko==5.0.0
 https://github.com/alxchk/tinyec/archive/master.zip
 psutil
 netifaces
@@ -25,7 +25,7 @@ https://github.com/AlessandroZ/pypykatz/archive/master.zip
 https://github.com/warner/python-ed25519/archive/master.zip
 pygments
 requests
-tornado==v5.1.1
+tornado==v6.5.8
 poster
 win_inet_pton
 scandir
