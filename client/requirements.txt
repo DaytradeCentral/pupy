@@ -1,5 +1,5 @@
 rpyc==3.4.4
-pycryptodome==3.7.0
+pycryptodome==3.19.1
 pyaes
 psutil
 rsa
@@ -10,4 +10,4 @@ u-msgpack-python
 win_inet_pton
 dnslib
 dukpy
-zeroconf==0.19.1
+zeroconf==0.149.16
